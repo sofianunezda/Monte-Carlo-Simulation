@@ -21,7 +21,7 @@ The objective is to demonstrate how stochastic simulations can be used to approx
 
 ## Files
 
-- `Números Aleatorios.py` → Main Python implementation of the Monte Carlo simulation.
+- `Números_aleatorios.py` → Main Python implementation of the Monte Carlo simulation.
 - `Simulación de Monte Carlo.pdf` → Technical report describing the methodology, implementation and obtained results.
 
 ---
