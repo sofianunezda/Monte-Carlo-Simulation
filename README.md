@@ -49,5 +49,7 @@ Through this project I strengthened my understanding of:
 - Scientific problem solving
 
 ---
+## Author
 
+Sofía Núñez de Andrés
 Developed during the Bachelor's Degree in Physics at the University of Oviedo.
