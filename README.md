@@ -37,4 +37,17 @@ The objective is to demonstrate how stochastic simulations can be used to approx
 
 ---
 
+## Skills Developed
+
+Through this project I strengthened my understanding of:
+
+- Monte Carlo methods
+- Random number generation
+- Statistical analysis
+- Scientific programming in Python
+- Computational physics
+- Scientific problem solving
+
+---
+
 Developed during the Bachelor's Degree in Physics at the University of Oviedo.
